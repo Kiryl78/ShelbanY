@@ -27,6 +27,9 @@ public class ShelbanY {
                 playerOne.start();
         }
         // wait or not to wait ??? not to wait !
+        // думал сперва ещё гонки устроить - кто успел, потому и запускаем ранндомно
+        // кто успел и на сколько, а кто нет... но не получилось
+        // потому ниже остались остатки сравнения длин листов...
 
         //not to wait did not work... to wait !
         playerOne.join();
